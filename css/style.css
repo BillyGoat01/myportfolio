@@ -152,6 +152,9 @@ a:focus {
         display: block;
         width: 100%;
     }
+    .sidebar-header{
+        height: 320px;
+    }
 
     .wrapper .sidebar .sidebar-header img {
         width: 100%;
